@@ -305,11 +305,7 @@ In any coordination economy where the Chirikov parameter K (ratio of largest hol
 
 ---
 
-*ERI Labs · Eric Ren · Jersey City, New Jersey · github.com/ericrenone · 2027*
-
-*The individual move and the population process are the same theorem at different scales.*
-
-*Pull requests and citations of current SOTA research welcome.*
+*ERI Labs · Eric Ren · Jersey City, New Jersey · github.com/ericrenone · 2026*
 
 ---
 © 2027 ERI Labs. All rights reserved.
