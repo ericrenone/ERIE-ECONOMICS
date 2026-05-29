@@ -1,7 +1,7 @@
 # ERIE ECONOMICS
 ## Collective Coordination, Kernel Crystallization, and the Bifurcated Institutional Ecology of High-Capacity Systems
 
-*Eric Ren · ERI Labs · Jersey City, New Jersey · github.com/ericrenone · 2027*
+*Eric Ren · ERI Labs · Jersey City, New Jersey · github.com/ericrenone · 2026*
 
 ---
 
